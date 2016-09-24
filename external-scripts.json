@@ -8,5 +8,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-plusplus",
-  "hubot-trivia-game"
+  "hubot-trivia-game",
+  "hubot-heroku-keepalive"
 ]
